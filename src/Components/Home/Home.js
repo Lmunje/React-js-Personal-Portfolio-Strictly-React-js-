@@ -1,6 +1,7 @@
-import React from 'react';
+import React, {useState} from "react";
 import './Home.css';
-import logo from "./assets/img/logo.png"
+import logo from "../../assets/img/logo.png"
+
 
 function Home() {
     // fixed Header
@@ -41,7 +42,7 @@ function Home() {
             </div>
             {/* Toogle Menu */}
             <div className="toggle__menu">
-              <svg onClick={() => setShow(!show)}
+             <svg onClick={() => setShow(!show)}
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
                 height="16"
@@ -53,9 +54,9 @@ function Home() {
                   fill-rule="evenodd"
                   d="M2 12.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"
                 />
-              </svg>
+              </svg>*
             </div>
-            {show ?(
+            {show ?( 
             <div className="sideNavbar">
                 <ul className="sidebar d__flex">
                 <li className="sideNavbar">
@@ -85,9 +86,9 @@ function Home() {
             <div className="home__content">
               <div className="home__meta">
                 <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
-                <h2 className="home__text pz__10">Hi, I’m Jone Doe</h2>
-                <h3 className="home__text sweet pz__10">JS Developer.</h3>
-                <h4 className="home__text pz__10">based in USA.</h4>
+                <h2 className="home__text pz__10">Hi, I’m Lionel Munje</h2>
+                <h3 className="home__text sweet pz__10">Application Developer.</h3>
+                <h4 className="home__text pz__10">based in Canada.</h4>
               </div>
             </div>
           </div>
@@ -98,3 +99,4 @@ function Home() {
   
 
 export default Home;
+
