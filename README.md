@@ -1,70 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+****   Creating a portfolio website to show case my talent , highlighting my best work, demonstrating credibility ,engaging the audience and as well providing a clear call to action on my works. ********
+***Tools used**
+-IDE: VSCODE
+-LANGUAGE: JAVASCRIPT(REACTJS)
+-PROTO.IO: FOR PROTOTYPE DESIGNS
+![Homepage!](https://user-images.githubusercontent.com/46854325/229145265-8c836e89-a737-47d2-bb6a-05254320183d.jpg)
+![ProjectPage](https://user-images.githubusercontent.com/46854325/229145407-677493ed-7c3e-44c9-909c-c8ca44eb9562.jpg)
+![AboutMePage](https://user-images.githubusercontent.com/46854325/229145305-4ed3116f-0075-4807-93d0-4abe06067df1.jpg)
+![MyServicePage](https://user-images.githubusercontent.com/46854325/229145353-3ff4838a-35c6-428a-b18c-a665c8ebd957.jpg)
+![NewsPage](https://user-images.githubusercontent.com/46854325/229145367-2b8cd5bf-0a85-4301-9d12-e85c343b83b2.jpg)
+![ContactPage](https://user-images.githubusercontent.com/46854325/229145475-d1e1b362-0a91-47df-aa16-ceb154fbb0c8.jpg)
+![Contact page](https://user-images.githubusercontent.com/46854325/229145588-e46e675f-ac4d-4631-83b2-1a2e8ee717a1.jpg)
